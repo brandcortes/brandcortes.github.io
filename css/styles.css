@@ -64,9 +64,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #000000;
   text-align: left;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6083,7 +6083,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #f80000 !important;
+  background-color: #ff0000 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -6093,7 +6093,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #ff0000 !important;
+  background-color: #000000 !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
